@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AUB Payment</string>
+    <string name="home">Home</string>
+    <string name="payment">Payment</string>
+    <string name="history">History</string>
+    <string name="profile">Profile</string>
+    <string name="welcome">Welcome to AUB Payment</string>
+    <string name="total_balance">Total Balance</string>
+    <string name="recent_payments">Recent Payments</string>
+    <string name="make_payment">Make Payment</string>
+    <string name="payment_history">Payment History</string>
+    <string name="student_name">Student Name</string>
+    <string name="student_id">Student ID</string>
+    <string name="stu_class">Class</string>
+    <string name="contact_info">Contact Information</string>
+</resources>
